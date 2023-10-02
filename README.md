@@ -1,7 +1,6 @@
 <a href="https://github.com/spy404" target="_blank" align="center">
   <img src="https://s2.uupload.ir/files/github-header-image_zm3n.jpg" border="0" alt="spy404" />
 </a>
-<center><img src="https://api.visitorbadge.io/api/visitors?path=spy404&label=Visitors&countColor=%23263759&style=flat-square&labelStyle=upper" /></center>
 <br />
 <br />
 <p align="center"> Hi, I'm <b> spy404 <b>! Iranian <b> Front-end </b> and <b> Technology </b> lover. </p>
@@ -189,14 +188,3 @@
   <a href="https://www.microsoft.com/software-download/windows11">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a>
-</div>
-<a href="https://github.com/spy404/">
-  <img src="https://github-readme-stats.vercel.app/api?username=spy404&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/spy404/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spy404&theme=radical" />
-</a>
-<br />
-<a href="https://github.com/spy404/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spy404&layout=compact&theme=radical" />
-</a>
